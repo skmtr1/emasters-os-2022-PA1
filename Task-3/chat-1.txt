@@ -1,4 +1,4 @@
-initiater
+initiate
 KEY 10 14
 hi
 how r u?
