@@ -2,7 +2,7 @@
 ## CS962: Operating System Principles, eMasters, 2020, Quarter-I
 
 ## Directory Structure
-PA1 code base contains 4 directory, Makefile and other supported files required to complete the PA1 and described as follows:
+PA1 code base contains 5 directory, Makefile and other supported files required to complete the PA1 and described as follows:
 
 1. The **Task-1** directory contains the template code for the Task-1.
 
@@ -42,9 +42,21 @@ PA1 code base contains 4 directory, Makefile and other supported files required 
 
     4.3. The **crypt.h** contains the structue of secure key required for the task-3 along the the declaration of encrytion and decryption function.
 
-5. **Makefile** is used for the compilation of the PA1 code base.
+5. The **sample_output** directory contains store contents for **Task-2** and **Task-3** that a user shoud write message received from other user.
 
-6. The **README.md**, this file.
+    5.1. This directory contains two sub directories, namely **Task-2** and **Task-3** correspoding to store content of respective chat content provided for each task.
+
+    5.2. Each sub directory contains two file, namel **store-1.txt** and **store-2.txt**.
+
+    5.3. The **store-1.txt** file stores the information that **user-1** has recived from **user-2**. You need to store content in the same format.
+
+    5.4. Similarly, **store-2.txt** stores the information that **user-2** has recived from **user-1**.
+
+    5.5. For **Task-3**, every user should store encrypted as well as decrypted text as shown in the corresponding file.
+
+6. **Makefile** is used for the compilation of the PA1 code base.
+
+7. The **README.md**, this file.
 
 
 ## To Build System
