@@ -1,5 +1,4 @@
-CC = gcc
-CFLAGS = -g
+CC = gcc -g
 
 SRC=src
 INC=inc
