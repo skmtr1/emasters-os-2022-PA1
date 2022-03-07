@@ -1,5 +1,7 @@
-initiater
+initiate
 KEY 10 14
+bye
 hi
 how r u?
 I am good too.
+bye

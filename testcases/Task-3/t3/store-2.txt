@@ -1,7 +1,6 @@
-[ENC] fg
+[ENC] hi
 [DEC] hi
-[ENC] fmu p s?
-[DEC] how r u?
-[ENC] G yk emmb rmm.
-[DEC] I am good too.
-
+[ENC] I am good. What about u?
+[DEC] I am good. What about u?
+[ENC] What is going on?
+[DEC] What is going on?

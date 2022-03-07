@@ -1,0 +1,4 @@
+[ENC] rs
+[DEC] hi
+[ENC] ryg b e?
+[DEC] how r u?

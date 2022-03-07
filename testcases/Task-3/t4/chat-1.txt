@@ -1,0 +1,6 @@
+initiate
+KEY 5 5
+hi
+how r u?
+I am good too.
+bye

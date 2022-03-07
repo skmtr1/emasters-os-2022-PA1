@@ -1,5 +1,6 @@
-initiater
-KEY 10 14
+KEY 0 0
 hi
-how r u?
-I am good too.
+I am good. What about u?
+What is going on?
+where are you now a days?
+Did you meet our college friends?

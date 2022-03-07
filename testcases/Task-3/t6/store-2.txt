@@ -1,0 +1,12 @@
+[ENC] Rovvy! Grkd mkx S ny pyb iye?
+[DEC] Hello! What can I do for you?
+[ENC] Csxmo ryg vyxq kbo iye xyd poovsxq govv?
+[DEC] Since how long are you not feeling well?
+[ENC] Xy zbylvow. Nsn iye rkfo wydsyxc iocdobnki?
+[DEC] No problem. Did you have motions yesterday?
+[ENC] Yu. Kxn grkd ovco?
+[DEC] Ok. And what else?
+[ENC] Ny iye nbsxu k vyd yp gkdob?
+[DEC] Do you drink a lot of water?
+[ENC] Nsn iye dkuo kxi wonsmsxo?
+[DEC] Did you take any medicine?

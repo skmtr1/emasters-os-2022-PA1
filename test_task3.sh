@@ -34,3 +34,7 @@ test(){
 test 1 chat-1.txt store-1.txt chat-2.txt store-2.txt store-1.txt store-2.txt
 test 2 chat-1.txt store-1.txt chat-2.txt store-2.txt store-1.txt store-2.txt
 test 3 chat-1.txt store-1.txt chat-2.txt store-2.txt store-1.txt store-2.txt
+test 4 chat-1.txt store-1.txt chat-2.txt store-2.txt store-1.txt store-2.txt
+test 5 chat-1.txt store-1.txt chat-2.txt store-2.txt store-1.txt store-2.txt
+test 6 chat-1.txt store-1.txt chat-2.txt store-2.txt store-1.txt store-2.txt
+test 7 chat-1.txt store-1.txt chat-2.txt store-2.txt store-1.txt store-2.txt
