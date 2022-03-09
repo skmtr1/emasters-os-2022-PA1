@@ -19,7 +19,7 @@ test(){
   act_store1=$testCaseDir/$6
   act_store2=$testCaseDir/$7
 
-  ./task3_user $chat1 $store1 $chat2 $store2
+  ./task3_driver $chat1 $store1 $chat2 $store2
   res1=`diff $store1 $act_store1 | wc -l`
   res2=`diff $store2 $act_store2 | wc -l`
   if [ $res1 -eq 0 ] && [ $res2 -eq 0 ]
