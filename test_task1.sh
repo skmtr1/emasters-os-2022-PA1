@@ -13,7 +13,7 @@ test(){
   resActual=$3
   output=$4
   cat $testcase | ./task1_calc > $output
-  res=`diff $resActual $output | wc -l`
+  res=`diff -i $resActual $output | wc -l`
   if [ $res -eq 0 ]
   then
   	echo "TESTCASE-$testNo PASSED" >> $result
