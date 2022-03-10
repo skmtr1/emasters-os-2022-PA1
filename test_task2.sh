@@ -23,7 +23,7 @@ test(){
   tout_code=$?
   res1=`diff $store1 $act_store1 | wc -l`
   res2=`diff $store2 $act_store2 | wc -l`
-  if [ $res1 -eq 0 ] && [ $res2 -eq 0 ] && [ $tout_code -ne 124 ]
+  if [ $res1 -eq 0 ] && [ $res2 -eq 0 ] && [ $tout_code -ne 124 ] && [ -f "$store1" ] && [ -f "$store2" ]
   then
   	echo "TESTCASE-$testNo PASSED" >> $result
   else
